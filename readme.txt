@@ -9,4 +9,4 @@ git can build a branch quickly
 =======
 git can creat branch quickly and simply
 >>>>>>> conflict
-
+git is greet
